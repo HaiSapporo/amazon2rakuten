@@ -1,8 +1,0 @@
-.DS_Store
-Thumbs.db
-
-*.log
-
-.vercel/
-build/
-node_modules/
